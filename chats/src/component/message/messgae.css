@@ -1,0 +1,23 @@
+.msgbox{
+    width: 40%; 
+    background-color: beige;
+    padding: 1rem;
+    margin: 1vmax;
+    border-radius: 5px;
+    display: block;
+    clear: both;
+}
+
+.right{
+    float: right;
+    background-color: crimson;
+    color: wheat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.left{
+    float: left;
+    background-color: rgb(162, 214, 99);
+    color: wheat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
